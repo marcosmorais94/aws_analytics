@@ -11,4 +11,10 @@ O SageMaker é um dos serviços disponibilizados pela Amazon relacionados a Mach
 
 É uma das principais soluções para Ciência de Dados atualmente disponíveis no mercado. O objetivo de compartilhar esses scripts aqui no GitHub é me manter atualizado com as melhores ferramentas disponíveis na área de Analytics.
 
+## AWS S3
+
+O Amazon Simple Storage Service (Amazon S3) é um serviço de armazenamento de objetos que oferece escalabilidade, disponibilidade de dados, segurança e performance líderes do setor. É possível armazenar e proteger qualquer quantidade de dados de praticamente qualquer caso de uso, como data lakes, aplicações nativas da nuvem e aplicações móveis. 
+
+Basicamente é onde todos os dados usados pelo SageMaker são armazenados, desde o dataset bruto até mesmo o modelo preditivo. É um dos serviços que fazem parte da aplicação de Machine Learning no AWS da Amazon.
+
 Para mais detalhes sobre o AWS e suas soluções basta acessar: https://aws.amazon.com/pt
