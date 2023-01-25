@@ -1,5 +1,6 @@
 ![wp10474439](https://user-images.githubusercontent.com/91103250/213894157-5a19e638-f401-44f2-bcf4-d52c1222bdc2.png)
 # AWS SageMaker Analytics
+Este repositório tem como objetivo compartilhar através de código Python via JupyterLab a configuração e deploy de soluções que envolvam Machine Learnign com AWS SageMaker. Vale ressaltar que devido a problemas com cobranças por cartão de crédito, os códigos foram comentados linha a linha em sua maioria. 
 
 ## O que é o ambiente AWS?
 A Amazon Web Services (AWS) é uma das plataformas de nuvem mais utilizada no mundo, oferecendo diversos serviços completos de datacenters em todo o mundo. 
