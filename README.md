@@ -1,7 +1,7 @@
 ![wp10474439](https://user-images.githubusercontent.com/91103250/213894157-5a19e638-f401-44f2-bcf4-d52c1222bdc2.png)
 # AWS SageMaker Analytics
 
-## O que é ambiente AWS?
+## O que é o ambiente AWS?
 A Amazon Web Services (AWS) é a plataforma de nuvem mais adotada e mais abrangente do mundo, oferecendo mais de 200 serviços completos de datacenters em todo o mundo. Milhões de clientes, incluindo as startups de crescimento mais rápido, grandes empresas e os maiores órgãos governamentais, estão usando a AWS para reduzirem seus custos, ficarem mais ágeis e inovarem mais rapidamente.
 
 O ambiente AWS permite o processamento e análise de dados direto na nuvem, que implica principalmente em uma redução significativa de tempo de processamento e reduação de espaço fisícos para armazenamento de dados.
