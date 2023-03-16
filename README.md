@@ -4,7 +4,7 @@ Este repositório tem como objetivo compartilhar através de código Python via 
 
 ## O que é o ambiente AWS?
 A Amazon Web Services (AWS) é uma das plataformas de nuvem mais utilizada no mundo, oferecendo diversos serviços completos de datacenters em todo o mundo. 
-O ambiente AWS permite o processamento e análise de dados direto na nuvem, que implica principalmente em uma redução significativa de tempo de processamento e reduação de espaço fisícos para armazenamento de dados.
+O ambiente AWS permite o processamento e análise de dados direto na nuvem, que implica principalmente em uma redução significativa de tempo de processamento e redução de espaço fisícos para armazenamento de dados.
 
 ## AWS SageMaker
 O SageMaker é um dos serviços disponibilizados pela Amazon relacionados a Machine Learning. É uma das principais soluções para Ciência de Dados atualmente disponíveis no mercado. O objetivo de compartilhar esses scripts aqui no GitHub é me manter atualizado com as melhores ferramentas disponíveis na área de Analytics.
