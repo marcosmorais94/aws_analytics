@@ -17,6 +17,11 @@ O Amazon Simple Storage Service (Amazon S3) é um serviço de armazenamento de o
 
 
 ## Implementação da solução com AWS
+Este é um passo a passo para implementação de um modelo de machine Learning com o SageMaker.
+
+1. Carga dos dados no S3
+   - O S3 é o diretório para salvar os arquivos que serão usados no ambiente AWS.
+3. Pré-processamento dos dados
 
 
 Para mais detalhes sobre o AWS e suas soluções basta acessar: https://aws.amazon.com/pt
